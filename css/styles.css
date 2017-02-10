@@ -14,3 +14,8 @@ body {
 .page-title {
   text-align: center;
 }
+
+.outer-well {
+  background-color: #a3a6a7;
+  border: 1px solid black;
+}
