@@ -5,7 +5,13 @@ body {
 
 .jumbotron {
   background-color: #ddcda9;
+  padding-top: 5px;
 }
+
+.jumbotron h1 {
+  padding-bottom: 20px;
+}
+
 
 .align-center {
   text-align: center;
@@ -25,4 +31,18 @@ body {
 .card-block {
   background-color: #ededed;
   border-top: 1px solid #727474;
+}
+
+.card h4 {
+  font-weight: bold;
+  text-decoration: underline;
+}
+
+.card-header h4 {
+  font-size: 20px;
+}
+
+.col-md-12 {
+  padding-left: 0px;
+  padding-right: 0px;
 }
