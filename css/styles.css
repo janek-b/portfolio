@@ -54,7 +54,6 @@ body {
 }
 
 .card-block {
-  /*background-color: rgba(44, 62, 80, 0.1);*/
   border-top: 2px solid white;
 }
 
@@ -113,7 +112,6 @@ body {
   color: white;
   background-color: inherit;
 }
-
 
 .list-group-item {
   background-color: inherit;
